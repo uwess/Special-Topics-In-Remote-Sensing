@@ -35,4 +35,5 @@
  ![11](Image/11.png)
  ![12](Image/12.png)
  # RESULT
+ 
  While comparing the results with the areas between the indexes in 1997 and 2013, NDVI was not that accurate and another operation should have been applied instead, while in 2020, NDVI gave the most accurate result.
